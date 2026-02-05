@@ -1,0 +1,3 @@
+admin|System Admin|SYSTEM_ADMIN|N/A|N/A|IiR87PI95CB3LoDDi0bG3w==|bmVqcMZlZt7a+bUR5sOCp/HqhpQkc7K+vhySSFOXfJE=|false|0
+abdo|abdalrhman|CUSTOMER|1234|123456|BIoGDFxwU3C7ghw/NJxxmg==|tSWwMQ8zn8FSTOpkq82z/Bj99r15blZOouGFUqgE2NM=|false|0
+mohammad|mohammadd|RENTAL_AGENT|123456789|079876|O7xOrXDmMRJA9CjTvY1oxg==|LcmnkbgRTF6CUWvcqprJDTqDF8eJWVXXfUDcIHrhPfg=|false|0

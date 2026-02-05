@@ -1,0 +1,80 @@
+Jan 26, 2026 2:57:30 AM MyLogger writeToLog
+INFO: Default admin created (username: admin)
+Jan 26, 2026 2:57:30 AM MyLogger writeToLog
+INFO: System started
+Jan 26, 2026 2:57:37 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 2:57:42 AM MyLogger writeToLog
+INFO: Login failed: user not found: abd
+Jan 26, 2026 2:57:46 AM MyLogger writeToLog
+INFO: Main menu click: 2
+Jan 26, 2026 2:58:05 AM MyLogger writeToLog
+INFO: Register failed: weak password for abd
+Jan 26, 2026 2:58:16 AM MyLogger writeToLog
+INFO: Main menu click: 2
+Jan 26, 2026 2:58:46 AM MyLogger writeToLog
+INFO: Customer registered: abdo
+Jan 26, 2026 2:58:49 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 2:58:52 AM MyLogger writeToLog
+INFO: Login failed: user not found: abd
+Jan 26, 2026 2:58:57 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 2:59:06 AM MyLogger writeToLog
+INFO: Login success: abdo role=CUSTOMER
+Jan 26, 2026 2:59:34 AM MyLogger writeToLog
+INFO: abdo click(Customer): 1
+Jan 26, 2026 2:59:34 AM MyLogger writeToLog
+INFO: View vehicles status: AVAILABLE
+Jan 26, 2026 2:59:37 AM MyLogger writeToLog
+INFO: abdo click(Customer): 2
+Jan 26, 2026 2:59:37 AM MyLogger writeToLog
+INFO: abdo viewed profile
+Jan 26, 2026 2:59:47 AM MyLogger writeToLog
+INFO: abdo click(Customer): 4
+Jan 26, 2026 2:59:47 AM MyLogger writeToLog
+INFO: abdo logout
+Jan 26, 2026 3:03:04 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 3:11:56 AM MyLogger writeToLog
+INFO: Login failed (wrong password): admin attempts=1
+Jan 26, 2026 3:11:59 AM MyLogger writeToLog
+INFO: Main menu click: admin
+Jan 26, 2026 3:40:54 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 3:41:05 AM MyLogger writeToLog
+INFO: Login success: admin role=SYSTEM_ADMIN
+Jan 26, 2026 3:41:16 AM MyLogger writeToLog
+INFO: admin click(Admin): 1
+Jan 26, 2026 3:41:48 AM MyLogger writeToLog
+INFO: admin added rental agent: mohammad
+Jan 26, 2026 3:42:19 AM MyLogger writeToLog
+INFO: admin click(Admin): 3
+Jan 26, 2026 3:42:19 AM MyLogger writeToLog
+INFO: View all users
+Jan 26, 2026 3:42:46 AM MyLogger writeToLog
+INFO: admin click(Admin): 6
+Jan 26, 2026 3:42:46 AM MyLogger writeToLog
+INFO: admin logout
+Jan 26, 2026 3:42:49 AM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 26, 2026 3:43:04 AM MyLogger writeToLog
+INFO: Login success: mohammad role=RENTAL_AGENT
+Jan 26, 2026 3:43:14 AM MyLogger writeToLog
+INFO: mohammad click(Agent): 2
+Jan 26, 2026 3:45:11 AM MyLogger writeToLog
+INFO: mohammad added vehicle: 234323 status=AVAILABLE
+Jan 26, 2026 3:45:29 AM MyLogger writeToLog
+INFO: mohammad click(Agent): 1
+Jan 27, 2026 8:02:49 PM MyLogger writeToLog
+INFO: System started
+Jan 27, 2026 8:02:53 PM MyLogger writeToLog
+INFO: Main menu click: 1
+Jan 27, 2026 8:06:23 PM MyLogger writeToLog
+INFO: Login success: Admin role=SYSTEM_ADMIN
+Jan 27, 2026 8:42:51 PM MyLogger writeToLog
+INFO: admin click(Admin): h
+Jan 27, 2026 8:42:55 PM MyLogger writeToLog
+INFO: admin click(Admin): 6
+Jan 27, 2026 8:42:55 PM MyLogger writeToLog
+INFO: admin logout
